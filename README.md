@@ -1,13 +1,12 @@
-##smartparking 
-With the growing number of cars on the road, several challenges are becoming increasingly apparent. Many individuals are finding it difficult to secure satisfactory parking, while others struggle to park their vehicles efficiently. To mitigate these issues, engineers have been working on innovative solutions.
+<h1>Car-Parking</h1>
+In conjunction with escalating car numbers, several challenges become more noticeable. In the day-to-day lives of individuals, some are struggling to discover satisfying parking. Others are suffering to park their cars by themselves effectively. For this reason, a lot of problem-solving engineers were working to reduce the effects of these difficulties.
 
-This project presents a smart parking system designed to streamline the parking process. The smart parking application serves as a guide for drivers looking to find suitable parking spots. It displays the number of available spaces in parking areas registered with the application, which are shown on a Google map. The parking facilities are equipped with an infrastructure that detects the number of empty spots.
+In this project, a supportive system implemented with the aim of enhancing the parking process. This innovative system helps users find available parking spots by displaying the number of empty spaces in registered parking areas on a Google map. The system includes a prototype car that can be controlled via the application to navigate and park automatically.
 
-The application also includes a feature to control the movements of a prototype car in four directions, guiding it to the desired parking spot. The car model is capable of parking itself automatically through an auto-park option in the app. This auto-parking functionality is made possible by a combination of components, including an Arduino, reed switch, ultrasonic sensors, and DC motors. The reed switch detects the presence of parking spaces, and the ultrasonic sensors on both sides take precise measurements to identify the optimal spot. If no suitable space is available, the car model continues moving forward in search of one.
+<h2>Key Features:</h2>
+Real-Time Parking Availability: Displays the number of available parking spots on a Google map.
+Auto-Park Functionality: The prototype car can be directed to park itself automatically using the app.
+Advanced Sensors and Control: Utilizes Arduino, reed switches, ultrasonic sensors, and DC motors to detect parking spaces and control the car's movements.
+The system's infrastructure is designed to detect and measure empty parking spots accurately. The ultrasonic sensors and reed switches work together to identify suitable parking spaces, allowing the prototype car to navigate and park itself efficiently.
 
-The system offers several ##key features:
-
-Real-Time Parking Information: Displays the number of available parking spots on a Google map.
-Auto-Parking Capability: The prototype car can be instructed to park itself automatically using the app.
-Advanced Sensor Integration: Combines Arduino, reed switches, ultrasonic sensors, and DC motors to detect parking spaces and control the car's movements.
-This project not only showcases my expertise in developing practical solutions but also illustrates my ability to integrate technology with real-world applications to tackle common urban challenges.
+This project not only highlights my skills in developing practical solutions but also demonstrates my ability to integrate technology with real-world applications to address common urban challenges.
